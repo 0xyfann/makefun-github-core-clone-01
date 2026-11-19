@@ -1,3 +1,7 @@
+[![make.fun](https://make.fun/badge/github-core-clone-01.svg)](https://make.fun/bounty/github-core-clone-01)
+[![rank](https://make.fun/badge/github-core-clone-01/0xyfann/makefun-github-core-clone-01/rank.svg)](https://make.fun/bounty/github-core-clone-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
+[![reward](https://make.fun/badge/github-core-clone-01/0xyfann/makefun-github-core-clone-01/reward.svg)](https://make.fun/bounty/github-core-clone-01?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
+
 # GitHub Core Forge
 
 A standalone, deterministic, in-memory Git forge. Runtime modules use only Node.js standard library APIs; no install step, Git executable, network service, model call or writable repository is needed.
@@ -53,3 +57,7 @@ node ../kit/github-core-clone-01-kit/cli/makefun.mjs grade-local \
 ```
 
 See `VERIFICATION.md` for recorded results and runtime limitations.
+
+Bounty: https://make.fun/bounty/github-core-clone-01
+
+Referral: https://make.fun/r/p1x954ca
